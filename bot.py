@@ -27,6 +27,6 @@ try:
                                           "client_id": "android-qw",
                                           "client_secret": "zAm4FKq9UnSe7id",
                                       })
-        print(user)
+        
 except:
     os.system('python bot.py
