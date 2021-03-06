@@ -1,7 +1,6 @@
 try:
     import requests, fake_useragent, os
     import vk_api
-    from termcolor import colored
     from vk_api.longpoll import VkLongPoll, VkEventType
     from vk_api.utils import get_random_id
     user = fake_useragent.UserAgent().random
