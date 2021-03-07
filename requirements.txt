@@ -4,4 +4,4 @@ vk-api
 pathlib
 SimpleQIWI
 filemath
-urllib
+
