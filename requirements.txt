@@ -2,3 +2,4 @@ requests
 fake_useragent
 vk-api
 pathlib
+SimpleQIWI
